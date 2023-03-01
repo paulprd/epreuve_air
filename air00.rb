@@ -1,4 +1,4 @@
-# Par ordre ascii
+# Split
 
 # Fonctions utilisées
 def array_print(array)
