@@ -16,8 +16,6 @@ end
 separator = ARGV.last
 to_concat = ARGV
 to_concat.pop
-puts separator
-puts to_concat
 
 # Partie 3 : Résolution
 result = array_to_str(to_concat, separator)
